@@ -50,9 +50,8 @@ Other edited photos of skin-transferable MEMS
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/virus3.png)
 
-![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/j17.gif)
+![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/virus_3.psd)
 
-![]()
 
 
 
