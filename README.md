@@ -1,6 +1,6 @@
 # 3D-Designs
 
-####Designs drawn with Adobe Photoshop, Adobe Illustrator,  SolidWorks, Google Sketchup, Luxion Keyshot and AutoCAD
+#####Drawn with Adobe Photoshop, Adobe Illustrator,  SolidWorks, Google Sketchup, Luxion Keyshot and AutoCAD
 
 Frontpiece cover of Advanced Materials
 
