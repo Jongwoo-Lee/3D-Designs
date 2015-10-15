@@ -2,13 +2,13 @@
 
 #####Drawn with Adobe Photoshop, Adobe Illustrator,  SolidWorks, Google Sketchup, Luxion Keyshot and AutoCAD
 
-*Frontpiece cover of Advanced Materials
+-Frontpiece cover of Advanced Materials
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/front_cover.gif)
 
 
 
-*Other edited photos of skin-transferable MEMS 
+-Other edited photos of skin-transferable MEMS 
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/5.gif)
 
@@ -20,7 +20,7 @@
 
 
 
-*3D visualization of skin mountable biosensors
+-3D visualization of skin mountable biosensors
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/1%20(1).jpg)
 
@@ -48,7 +48,7 @@
 
 
 
-*3D visualization of Nanosized viral particles
+-3D visualization of Nanosized viral particles
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/virus3.png)
 
