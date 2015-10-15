@@ -8,7 +8,7 @@
 
 
 
-Other edited photos of skin-transferable MEMS 
+*Other edited photos of skin-transferable MEMS 
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/5.gif)
 
@@ -20,7 +20,7 @@ Other edited photos of skin-transferable MEMS
 
 
 
-3D visualization of skin mountable biosensors
+*3D visualization of skin mountable biosensors
 
 ![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/1%20(1).jpg)
 
