@@ -8,5 +8,11 @@ Frontpiece cover of Advanced Materials
 
 Other edited photos of skin-transferable MEMS 
 
-![](
+![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/5.gif)
+
+
+![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/old-10um_mag.gif)
+
+
+![](https://github.com/jongwoo-Lee/3D-Designs/blob/master/files/fractal1.gif)
 
